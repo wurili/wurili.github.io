@@ -4,3 +4,4 @@ git checkout -b test6
 git branch test6 
 创建分支 test6
 我来了窝窝窝窝
+看下配置文件有没有被提交
