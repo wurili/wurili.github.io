@@ -1,4 +1,12 @@
 why is not things
 wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 sssssssssssssssssssssssssssssssss
+我是test1
+我来修改bug
+我来测试暂存..我等会暂存一下修改完bug后再拉取出来
+我又来测试
+我是水水
+你是水水吗
+我就是水水呀...
+看下配置文件有没有被提交测试
 
